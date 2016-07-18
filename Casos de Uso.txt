@@ -1,14 +1,14 @@
-CU1.	Autorizar Publicación --Falta
+CU1.	Autorizar PublicaciÃ³n --Falta
 CU2.	Gestionar Estructura  --Falta
-CU3.	Gestionar Agente  ---Listo Registro /
-CU4.	Gestionar Tipo de Usuario ---Listo Modificar /
+CU3.	Gestionar Agente  ---Listo Registro / ok
+CU4.	Gestionar Tipo de Usuario ---Listo Modificar / ok
 CU5.	Gestionar Usuario ---Visualizar Usuarios /
-CU6.	Gestionar Perfil ---Modificar Perfil de Usuario /
+CU6.	Gestionar Perfil ---Modificar Perfil de Usuario / ok
 CU7.	Gestionar Reglas ---Modificar /
 CU8.	Asignar Privilegio --Solo esta la lista de los privilegios
-CU9.	Generar Bitácora ---Listado de sucuesos /
+CU9.	Generar BitÃ¡cora ---Listado de sucuesos /
 CU10.	Gestionar Inmueble --Falta
-CU11.	Gestionar Publicación --Falta
-CU12.	Gestionar Comisión --Falta
+CU11.	Gestionar PublicaciÃ³n --Falta
+CU12.	Gestionar ComisiÃ³n --Falta
 CU13.	Gestionar Ingresos y Egresos --Falta
 CU14.	Vender Inmueble --Falta
