@@ -1,14 +1,14 @@
-CU1.	Autorizar Publicación --Falta
-CU2.	Gestionar Estructura  --Falta
-CU3.	Gestionar Agente  ---Listo Registro / ok
-CU4.	Gestionar Tipo de Usuario ---Listo Modificar / ok
-CU5.	Gestionar Usuario ---Visualizar Usuarios /
-CU6.	Gestionar Perfil ---Modificar Perfil de Usuario / ok
-CU7.	Gestionar Reglas ---Modificar /
-CU8.	Asignar Privilegio --Solo esta la lista de los privilegios
-CU9.	Generar Bitácora ---Listado de sucuesos /
-CU10.	Gestionar Inmueble --Falta
-CU11.	Gestionar Publicación --Falta
-CU12.	Gestionar Comisión --Falta
-CU13.	Gestionar Ingresos y Egresos --Falta
-CU14.	Vender Inmueble --Falta
+CU1.	Autorizar Publicación --ok
+CU2.	Gestionar Estructura  --ok
+CU3.	Gestionar Agente  --ok
+CU4.	Gestionar Tipo de Usuario --ok
+CU5.	Gestionar Usuario --ok
+CU6.	Gestionar Perfil --ok
+CU7.	Gestionar Reglas --ok
+CU8.	Asignar Privilegio --ok
+CU9.	Generar Bitácora --/ falta imprimir
+CU10.	Gestionar Inmueble --LSC
+CU11.	Gestionar Publicación --ok
+CU12.	Gestionar Comisión --null
+CU13.	Gestionar Ingresos y Egresos --null
+CU14.	Vender Inmueble --ok //no esta programado solo es pinta
