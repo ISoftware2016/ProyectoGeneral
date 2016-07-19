@@ -1,3 +1,7 @@
+somee.com
+  user:  inmocruz   
+  pass:  Inmocruz2
+
 CU1.	Autorizar Publicación --ok
 CU2.	Gestionar Estructura  --ok
 CU3.	Gestionar Agente  --ok
